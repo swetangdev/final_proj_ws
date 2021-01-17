@@ -1,5 +1,3 @@
-# final_proj_ws
-
 **Clone this git repository url: https://github.com/swetangdev/final_proj_ws.git**
 
 ## **1. Execute following command to make source available**
